@@ -1,0 +1,11 @@
+C:\Users\romain\source\repos\JoliWebSite\Business\obj\Debug\netstandard2.1\Business.csprojAssemblyReference.cache
+C:\Users\romain\source\repos\JoliWebSite\Business\obj\Debug\netstandard2.1\Business.AssemblyInfoInputs.cache
+C:\Users\romain\source\repos\JoliWebSite\Business\obj\Debug\netstandard2.1\Business.AssemblyInfo.cs
+C:\Users\romain\source\repos\JoliWebSite\Business\bin\Debug\netstandard2.1\Business.deps.json
+C:\Users\romain\source\repos\JoliWebSite\Business\bin\Debug\netstandard2.1\Business.dll
+C:\Users\romain\source\repos\JoliWebSite\Business\bin\Debug\netstandard2.1\Business.pdb
+C:\Users\romain\source\repos\JoliWebSite\Business\bin\Debug\netstandard2.1\Dal.dll
+C:\Users\romain\source\repos\JoliWebSite\Business\bin\Debug\netstandard2.1\Dal.pdb
+C:\Users\romain\source\repos\JoliWebSite\Business\obj\Debug\netstandard2.1\Business.csproj.CopyComplete
+C:\Users\romain\source\repos\JoliWebSite\Business\obj\Debug\netstandard2.1\Business.dll
+C:\Users\romain\source\repos\JoliWebSite\Business\obj\Debug\netstandard2.1\Business.pdb

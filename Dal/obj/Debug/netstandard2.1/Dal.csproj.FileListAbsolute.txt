@@ -1,0 +1,8 @@
+C:\Users\romain\source\repos\JoliWebSite\Dal\bin\Debug\netstandard2.1\Dal.deps.json
+C:\Users\romain\source\repos\JoliWebSite\Dal\bin\Debug\netstandard2.1\Dal.dll
+C:\Users\romain\source\repos\JoliWebSite\Dal\obj\Debug\netstandard2.1\Dal.csprojAssemblyReference.cache
+C:\Users\romain\source\repos\JoliWebSite\Dal\obj\Debug\netstandard2.1\Dal.AssemblyInfoInputs.cache
+C:\Users\romain\source\repos\JoliWebSite\Dal\obj\Debug\netstandard2.1\Dal.AssemblyInfo.cs
+C:\Users\romain\source\repos\JoliWebSite\Dal\bin\Debug\netstandard2.1\Dal.pdb
+C:\Users\romain\source\repos\JoliWebSite\Dal\obj\Debug\netstandard2.1\Dal.dll
+C:\Users\romain\source\repos\JoliWebSite\Dal\obj\Debug\netstandard2.1\Dal.pdb
